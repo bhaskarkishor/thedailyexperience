@@ -2,7 +2,7 @@
 layout: post
 title: Starting journey of deep learning - Pytorch vs Tensorflow ?
 date: 2020-04-11
-tags: deep learning
+tags: deep_learning
 image: https://source.unsplash.com/gnyA8vd3Otc/1600*900
 ---
 
