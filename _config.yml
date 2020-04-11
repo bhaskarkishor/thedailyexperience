@@ -7,15 +7,17 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Bhaskar Kishor
-  bio: Hi, my name is Bhaskar Kishor. I like being at the center of events, being free and enjoying every moment. Thank you for visiting my blog.
+  bio: Hi, my name is Bhaskar Kishor. I like learning about new techy things that are happening everydag in different corners of the world.
+Visiting different places and different experience are my things. 
 
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
-email: forexample@website.com # Add your Email address
+#twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/bhaskar.kishor # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/bhaskarkishor # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+email: bhaskarkishor23@gmail.com # Add your Email address
+linkedin: https:// linkedin.com/in/bhaskar-kishor
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
@@ -27,7 +29,7 @@ hero-image: images/14.jpg # Add background image in section hero
 footer-image: images/14.jpg # Add background image in footer
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: daily-experience # Add your shortname for Disqus Comment. For example mr-brown
 
 # Google Analytics
 google-analytics: "" # Add your identifier. For example UA-99631805-1.
