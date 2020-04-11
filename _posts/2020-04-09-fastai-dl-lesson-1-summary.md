@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Image Classification by fast.ai, lesson 1
-image: images/fastai.jpg
-tags: dl
+image: images/fastai.png
+tags: [deep learning]
 ---
 
-Deep learning course on (fast ai)[fast.ai] is one of the
+Deep learning course on [fast ai](fast.ai) is one of the
 best MOOCs that I feel actually gets you going. It has implemented
 the top down approach of learning machine learning correctly.
 In my case, Initially like many I started with basics first to
@@ -13,8 +13,8 @@ learn Data Science but soon I relaised this method is not
 good enough. It doesn't arouse curiosity, which is necessary
 for moving forward in any domain.
 
-So here I am just going to mention a quick summary of first lesson
-of deep learning MOOC. It deals with ** Image Classification **.
+So here, I am just going to mention a quick summary of first lesson
+of deep learning MOOC. It deals with *Image Classification*.
 
 #### what if I don't have a high performing gpu and loads of dat?
 Here, its a valid question that might stop many from applying
@@ -23,7 +23,7 @@ requires large amount of data. But actually it is half truth.
 You don't always need large amount of data for training 
 a deep learning neural net. You can leverage the power of
 pretrained models to train your model. The trick is not to start from scratch. Use a model which
-already knows about images. This is called ** Transfer Learning **.
+already knows about images. This is called *Transfer Learning*.
 
 As for a gpu, there are some free and paid alternative availbale
 in the cloud to run a decent gpu for coursework. Such as
