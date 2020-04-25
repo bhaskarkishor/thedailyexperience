@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: images/01.jpg
+image: images/0
 ---
 
 Hi, my name is Bhaskar Kishor. I like learning about new techy things that are happening everydag in different corners of the world. Visiting different places and different experience are my things.
