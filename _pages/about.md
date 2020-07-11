@@ -5,4 +5,7 @@ permalink: /about/
 image: images/0
 ---
 
-Hi, my name is Bhaskar Kishor. I like learning about new techy things that are happening everydag in different corners of the world. Visiting different places and different experience are my things.
+This is Bhaskar Kishor, an engineering student pursuing Mechanical Engineering from IIT Bhubaneswar. 
+
+This blog is a product of my interest in tech domains, namely Web Development and Machine Learning. I started web development as a hobby during schools and I have been moving in so far. Mostly, I write about my personal experience during this learning endeavour. And its a reference for me to myself in the future.
+ 
