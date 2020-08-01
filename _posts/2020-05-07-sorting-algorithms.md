@@ -3,6 +3,8 @@ title: Sorting Algorithms and types
 layout: post
 tags: [Coding]
 date: 2020-05-07
+image: images/algorithms.jpg
+
 ---
 
 In general, Sorting is the process of arranging objects in an orderly fashion. The order could be based on any property of the object.

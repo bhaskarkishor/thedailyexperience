@@ -3,6 +3,7 @@ tags: [fun]
 date: 2020-07-22
 layout: post
 title: How to spam your friend on whatsapp with an unkonown number
+image: images/whatsapp-spam.jpeg
 ---
 
 Today, I am writing this just out of fun. It's about How I spammed my friends WhatsApp inbox from a third party unknown Number. But discovering that how easy it is to make a fake account on whatsApp and scam people is alarming and to some degree frightening. Actually after doing this, I am a bit more skeptical about about the online security thing. Maybe sky is the limit of whats actually possible to do in an online world.
