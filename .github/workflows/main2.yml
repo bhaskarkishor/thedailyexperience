@@ -1,0 +1,4 @@
+- name: Jekyll 4 Build & Deploy
+  # You may pin to the exact commit or the version.
+  # uses: joshlarsen/jekyll4-deploy-gh-pages@f740fcb635f38621d488d1b3e2e71c937dcb81e2
+  uses: joshlarsen/jekyll4-deploy-gh-pages@v1.3
