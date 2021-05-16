@@ -1,7 +1,7 @@
 title: the Daily Experience
 logo: "" # You can add own logo image.
 description: 
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/blog" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
